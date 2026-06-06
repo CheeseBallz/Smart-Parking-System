@@ -173,7 +173,4 @@ Smart-Parking-System/
 
 ---
 
-# Author
 
-Your Name  
-SZABIST University
